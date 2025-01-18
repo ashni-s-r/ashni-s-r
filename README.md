@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I’m a skilled professional with 2.5 years of exp
 
 ## 🌟 Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=ashni-s-r&repo=repo-name&theme=radical)](https://github.com/SRAshni/mangalya)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=SRAshni&repo=repo-name&theme=radical)](https://github.com/SRAshni/mangalya)
 [![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=ashni-s-r&repo=another-repo&theme=radical)](https://github.com/ashni-s-r/adp-ui)
 
 ## 📫 Connect with Me
