@@ -33,15 +33,6 @@ Welcome to my GitHub profile! I’m a skilled professional with 2.5 years of exp
 **Tools:**
 - VS Code, PyCharm, Postman, Dbeaver, Jupyter, Colab, Mobaxterm, ELK Stack, Kafka, Swagger
 
-## 📈 GitHub Stats
-
-![Ashni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashni-s-r&show_icons=true&theme=radical)
-
-## 🌟 Top Repositories
-
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=SRAshni&repo=repo-name&theme=radical)](https://github.com/SRAshni/mangalya)
-[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=ashni-s-r&repo=another-repo&theme=radical)](https://github.com/ashni-s-r/adp-ui)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashni-s-r)
