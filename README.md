@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a skilled professional with 2.5 years of exp
 - 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects related to data science and web development.
 - 💬 Ask me about Python, AI, ML, and backend technologies.
-- 📫 How to reach me: [ashni.s.r@example.com](mailto:ashni.s.r@example.com)
+- 📫 How to reach me: [ashnishinnu@gmail.com](mailto:ashnishinnu@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring nature in my free time.
 
 ## 🛠️ Skills and Expertise
